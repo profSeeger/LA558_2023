@@ -23,8 +23,9 @@ discovering and learning about historic places in Iowa State.
 **Eunice Amissah-Mensah - [Assessing Homelessness in the United States](https://arabanyarkoa.github.io/LA558_Eunice_Amissah/?locale=en-us)**<br>
 Homelessness is a complex issue that affects millions of people in the United States. It is caused by a combination of factors including poverty, lack of affordable housing, job loss, and mental illness. Homelessness disproportionately affects specific populations, such as veterans, families with children, and individuals experiencing chronic homelessness. The impact of homelessness extends beyond just housing insecurity, it affects physical and mental health, access to education and employment opportunities, and overall quality of life. Addressing homelessness requires a comprehensive and integrated approach that includes access to affordable housing, healthcare, education, and job training. Addressing homelessness is critical for ensuring the well-being and stability of individuals and communities. This project seeks to visualize places where categories of homelessness are prevalent with the help of Tableau.
 
-**Yadhav Deerpaul - [title](https://yadhav13.github.io/LA558_Yadhav_Deerpaul/?locale=en-us)**<br>
+**Yadhav Deerpaul - [Climate, Sunspots, and Forestry: Global Approaches to Understanding Malaria in British Mauritius](https://yadhav13.github.io/LA558_Yadhav_Deerpaul/?locale=en-us)**<br>
 Abstract to be added
+
 
 
 **Lily Ehler - [title](https://lily-ehler.github.io/LA558_Lily_Ehler/?locale=en-us)**<br>

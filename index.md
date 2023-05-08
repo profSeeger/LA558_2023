@@ -26,10 +26,8 @@ Homelessness is a complex issue that affects millions of people in the United St
 **Yadhav Deerpaul - [Climate, Sunspots, and Forestry: Global Approaches to Understanding Malaria in British Mauritius](https://yadhav13.github.io/LA558_Yadhav_Deerpaul/?locale=en-us)**<br>
 Abstract to be added
 
-
-
-**Lily Ehler - [title](https://lily-ehler.github.io/LA558_Lily_Ehler/?locale=en-us)**<br>
-Abstract to be added
+**Lily Ehler - [Malta & its International Connections](https://lily-ehler.github.io/LA558_Lily_Ehler/?locale=en-us)**<br>
+Malta is a small island nation located in the center of the Mediterranean Sea. Its strategically significant port has made the island a point of contention throughout history, with numerous nations and empires fighting for control. As a result, Malta has become a melting pot of different cultures coming together to form the island’s unique identity. With a heavily service-based economy, Malta has thrived off of its connections with other countries around the world. This mapping project will explore Malta’s historic connections with various foreign empires, as well as look at its present day international connections through shipping, aviation, tourism, and diplomatic relations.
 
 **Ayodele Fadoju - [title](https://fadojuaj.github.io/LA558_FADOJU_AYODELE/?locale=en-us)**<br>
 Abstract to be added

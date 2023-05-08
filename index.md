@@ -9,7 +9,7 @@ This course has a Prereq: CRP 351/551. GEOL 452/552 or instructor permission.
 ### Final projects from the course can be found below.
 
 **Abiola Adesanya - [Developing a Web-Based Historic Places Map: A Tool for Promoting Historic Preservation
-and Tourism](https://abiolaaminat.github.io/LA558_Abiola_Adesanya/Finalproject/finalproject.html)**<br>
+and Tourism](https://abiolaaminat.github.io/LA558_Abiola_Adesanya/)**<br>
 Historic landmarks and monuments are an important part of our cultural heritage, but
 they can be difficult to discover and learn about. To promote historic preservation and tourism,
 there is a need for tools that help people discover and explore historic places in their communities.

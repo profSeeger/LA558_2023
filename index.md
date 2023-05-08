@@ -3,7 +3,7 @@ This repository includes the course materials for the LA 558 Spring 2023 Introdu
 The course explores the use and development of online mapping tools and coding to support a variety of activities. Topics include: spatial data science, participatory GIS, Volunteered Geographic Information, geodesign, data wrangling and sharing, user interface design and decision-making actions. 
 Laboratory emphasis on practical applications and uses of Web GIS tools. The 2023 course emphasized the use of QGIS, GeoJSON.io, R (ggPlot2, Leaflet) and Tableau.
 
-This course has a Prereq: CRP 451/551. GEOL 452/552 or instructor permission.
+This course has a Prereq: CRP 351/551. GEOL 452/552 or instructor permission.
 
 
 ### Final projects from the course can be found below.
